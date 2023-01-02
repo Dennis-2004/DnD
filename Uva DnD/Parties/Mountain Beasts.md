@@ -1,0 +1,4 @@
+- Beheamoth (barbarian beserker)
+- Lizard (Hexblade)
+- Hawk (Ranger)
+- Falcon (Cleric)

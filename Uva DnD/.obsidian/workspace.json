@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Yone Yamamoto.md",
+                "file": "Homebrew/Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daa53e18657e07a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/Attestupa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "247d12c212565445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Buildings/Cavern of Curios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0851fda8f102aed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Powers/Yamamoto Clan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Yone Yamamoto.md",
+                "file": "Global Powers/Yamamoto Clan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Yone Yamamoto.md",
+                "file": "Global Powers/Yamamoto Clan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Yone Yamamoto.md"
+                "file": "Global Powers/Yamamoto Clan.md"
               }
             }
           }
@@ -159,11 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a894299c732617b1",
+  "active": "0851fda8f102aed5",
   "lastOpenFiles": [
+    "Global Powers/Undead Army.md",
+    "Cities/Attestupa.md",
+    "Special Buildings/Cavern of Curios.md",
     "Homebrew/Items.md",
-    "NPCs/Yone Yamamoto.md",
     "Global Powers/Yamamoto Clan.md",
+    "NPCs/Yone Yamamoto.md",
     "Homebrew/Custom Spells.md"
   ]
 }

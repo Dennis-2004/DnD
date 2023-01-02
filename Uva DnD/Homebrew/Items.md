@@ -16,6 +16,12 @@
 * Fire: Lets you cast Firebolt
 * Water: Lets you cast [[Custom Spells#Ice Needle:]]
 
+### Sentry Crystal
+- AC: 16
+- HP: 30
+- Initiative: 16
+- Roll 1d4 (1: fire, 2: earth, 3: water, 4:air) and dependinig on the color target has to make a con (water, fire), str (earth) or dex (air) of dc 16 or take 3d10 respective damage or none on a success
+
 ## Bow of Warping +1
 - Can use action to load a warp arrow and shoot on a 20 or higher the arrow will land in the correct location, on a 10 or higher it will land in a 10ft radius or the point and a nat 1 or 10 or lower the arrow will land in a random location in a 50ft radium
 

@@ -1,6 +1,7 @@
 Owner: Gem Dragonborn
 Sells:
-- Powder of Purified Crystal
+- [[Items#Dust of Purified Crystal:]]
+- [[Items#Glove of Purified Crystal:]]
 - Enchanting Items with Dust
 	- Earth:
 		- Weapon: +d4 of bludgeoning damage
@@ -14,3 +15,8 @@ Sells:
 	- Air:
 		- Weapon: +d4 of thunder damage
 		- Armor: increase speed by 10ft
+
+### Defenses
+- 4 [[Items#Sentry Crystal]]
+- Crystal walls that surround the party with AC 10 and 50 health
+- Same Layer action as [[Attestupa]]

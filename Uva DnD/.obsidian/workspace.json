@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Powers/Yamamoto Clan.md",
+                "file": "NPCs/Yone Yamamoto.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Powers/Yamamoto Clan.md",
+                "file": "NPCs/Yone Yamamoto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Powers/Yamamoto Clan.md",
+                "file": "NPCs/Yone Yamamoto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Powers/Yamamoto Clan.md"
+                "file": "NPCs/Yone Yamamoto.md"
               }
             }
           }
@@ -197,11 +197,12 @@
   },
   "active": "0851fda8f102aed5",
   "lastOpenFiles": [
+    "NPCs/Skeleton General 2.md",
     "Global Powers/Undead Army.md",
+    "Global Powers/Yamamoto Clan.md",
     "Cities/Attestupa.md",
     "Special Buildings/Cavern of Curios.md",
     "Homebrew/Items.md",
-    "Global Powers/Yamamoto Clan.md",
     "NPCs/Yone Yamamoto.md",
     "Homebrew/Custom Spells.md"
   ]

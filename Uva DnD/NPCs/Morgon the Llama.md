@@ -1,0 +1,3 @@
+#mountain_sect 
+#druid 
+Morgon the llama is [[Olaf Pine]]'s best friend and a druid of the [[Druidic Circle of Nature#Mountain]] sect. All day long he sings and hangs just a little round. Hakuna matatta. One day he saw a young deer was attacked by a lion. He killed the lion and then he saw it beast had four cubs to feed. Because of this he actually intervenes and he only does the bare minimum. He does follow orders of Boron, because he trusts that Boron is a good leader that nature protected. He thinks that he is not wise enough to judge that, however, the rest of the sect believes otherwise.

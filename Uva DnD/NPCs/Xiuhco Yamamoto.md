@@ -1,0 +1,2 @@
+#yamamoto 
+The Dragon of Destruction and the founder of the [[Yamamoto Clan]] one of the Legends who took part in taking down [[Harcross]] and his undead army, before Harcross fell he cursed him to forever live but never recover so he remains in the [[The Hidden Cave of Xiuhco]] where he hopes that one of his descendants would someday set him free.

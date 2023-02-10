@@ -1,1 +1,2 @@
+#yamamoto 
 Older brother of [[Hasashi Yamamoto]] and the last true warrior of the [[Yamamoto Clan]], the last person who knows the [[Yamamoto Clan#Yamamoto's Secret Arts]] level 15 Samurai Fighter who wields a Flame Tongue Katana +1.

@@ -1,0 +1,2 @@
+#druid 
+Originating from the [[Druidic Circle of Nature#Forest]] sect Hanu gradually gained more and more wisdom and power from nature until he saved the circle from [[Harcross]] and his undead army making him the Archdruid of the entire circle. He eventually also became the champion of the [[Deities#---: God of Nature]], though no longer in his prime he is still a force to be reckonned with being level 15.

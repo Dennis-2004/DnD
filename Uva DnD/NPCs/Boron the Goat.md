@@ -1,0 +1,3 @@
+#mountain_sect
+#druid
+Boron is granddruid of the [[Druidic Circle of Nature#Mountain]] sect, and according to the rest of the members of the cricle, has accumulated the most wisdom. He is a dark elf of 1034. He rarely talks and protects a horde of goats. That horde is important to life on the mountain where the circle meets. He hardly ever talks, but when he does say something usually very important. Sometimes he convenes with individual members to them to give advice.

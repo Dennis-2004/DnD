@@ -1,0 +1,3 @@
+#mountain_sect 
+#druid 
+Lea fits best in the friend category, but is actually more the small one niece of [[Olaf Pine]]. She is only 14 years old. She's kind of the little cousin of everyone in the circle, not by her blood, but that's what it feels like. Her father and mother were eaten by a bear. She managed to escape by herself in one eagle change. Confused and panicked, she flew up a mountain, where [[Boron the Goat]] found her. Boron and Lea have a father daughter relationship now. Lea spends a lot of time with [[Anna the Moose]], who teaches her how to use her powers control and protect nature.

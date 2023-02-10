@@ -1,0 +1,3 @@
+#mountain_sect 
+#druid 
+Anna is a druid of the [[Druidic Circle of Nature#Mountain]] sect as is married to [[Olaf Pine]]. She is dark elf, and the daughter of [[Boron the Goat]] just like [[Lea the Eagle]]. Anna is the same age as Olaf. Anna is notorious among hunters, because she lures them like moose, and then takes a hand and their weapon so that they can no longer shoot. If you see a severed hand hanging from a tree, it may well be that Anna did this.

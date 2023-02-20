@@ -54,3 +54,12 @@
 		- Deals 3d6 extra bleed damage
 		- On crit behead enemies, if the enemy is small enough and only has 1 head it dies otherwise it takes 6d8 bleed. Enemy cannot be beheaded if it has legendary actions.
 		- An obsidian clear black blade katana with a black and red hilt. Thick blood blowing through the blade shards of Xiuhco's sword floating around the sword
+- Haze of the Phantom King
+	- Dormant:
+		- +1
+		- Has 5 charges:
+			- 2 charges: Cast Misty Step
+			- 3 charges: Cast Mirror Image
+			- 3 charges: Cast Fog Cloud
+		- Allows the user to control a small amount of mist and shape it however they please, no greater than a small object
+- Life's Blessing

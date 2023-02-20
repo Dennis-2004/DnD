@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46ca5942c03e4f3a",
+        "id": "2e4ff44715faf51d",
         "type": "tabs",
         "children": [
           {
-            "id": "4785c1f4a933ebad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Powers/Yamamoto Clan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a894299c732617b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notable Items/Vorpal Katana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daa53e18657e07a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cities/Attestupa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "247d12c212565445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special Buildings/Cavern of Curios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0851fda8f102aed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Harcross.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4786250bb899674e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Powers/Yamamoto Clan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47cb710ecc563a04",
+            "id": "a3fdd8295c7c2a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,81 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1cadf0dd0163bd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parties/The Smoking Barrels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d582045a9e2cad9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special Buildings/The Hidden Cave of Xiuhco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f25c3a934e57838e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Powers/IronFoot Clan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f35b138eb99fc85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Powers/Druidic Circle of Nature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f26cbb2b713e40fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Hanu the Great Ape.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83dc1bcae269cf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Powers/Deities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parties/The Smoking Barrels.md",
+                "file": "Homebrew/Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parties/The Smoking Barrels.md",
+                "file": "Homebrew/Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parties/The Smoking Barrels.md"
+                "file": "Homebrew/Items.md"
               }
             }
           }
@@ -291,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cadf0dd0163bd33",
+  "active": "a3fdd8295c7c2a4c",
   "lastOpenFiles": [
-    "Global Powers/Yamamoto Clan.md",
-    "Homebrew/Items.md",
     "Global Powers/Druidic Circle of Nature.md",
-    "Parties/The Smoking Barrels.md",
-    "The Party/Olaf Pine.md",
-    "The Party/Hasashi Yamamoto.md",
     "The Party/Alfons Joymiller.md",
-    "NPCs/Flo the Aligator.md",
-    "Notable Items/Vorpal Katana.md",
-    "Special Buildings/The Hidden Cave of Xiuhco.md"
+    "The Party/Hasashi Yamamoto.md",
+    "The Party/Olaf Pine.md",
+    "The Party/Skeleton Archer 3.md",
+    "Global Powers/Deities.md",
+    "NPCs/Hanu the Great Ape.md",
+    "Global Powers/IronFoot Clan.md",
+    "Special Buildings/The Hidden Cave of Xiuhco.md",
+    "NPCs/Flo the Aligator.md"
   ]
 }

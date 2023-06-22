@@ -11,15 +11,36 @@
             "id": "a3fdd8295c7c2a4c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "971db196d119a679",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Items.md",
+                "file": "NPCs/Niall, The Divine Instrument of Conquest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c001c3744238a59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Niall, The Divine Instrument of Conquest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +85,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c46a0123616b6a08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Items.md",
+                "file": "NPCs/Niall, The Divine Instrument of Conquest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Items.md",
+                "file": "NPCs/Niall, The Divine Instrument of Conquest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Items.md"
+                "file": "NPCs/Niall, The Divine Instrument of Conquest.md"
               }
             }
           }
@@ -146,8 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3fdd8295c7c2a4c",
+  "active": "c001c3744238a59b",
   "lastOpenFiles": [
+    "Title Ideas.md",
+    "NPCs/Niall, The Divine Instrument of Conquest.md",
+    "Global Powers/Yamamoto Clan.md",
+    "Special Buildings/Tree of Hope.md",
+    "Parties/The Smoking Barrels.md",
+    "NPCs/Flo the Aligator.md",
+    "Cities/The Swamp of Life.md",
+    "Homebrew/Items.md",
     "Global Powers/Druidic Circle of Nature.md",
     "The Party/Alfons Joymiller.md",
     "The Party/Hasashi Yamamoto.md",
@@ -156,7 +193,6 @@
     "Global Powers/Deities.md",
     "NPCs/Hanu the Great Ape.md",
     "Global Powers/IronFoot Clan.md",
-    "Special Buildings/The Hidden Cave of Xiuhco.md",
-    "NPCs/Flo the Aligator.md"
+    "Special Buildings/The Hidden Cave of Xiuhco.md"
   ]
 }

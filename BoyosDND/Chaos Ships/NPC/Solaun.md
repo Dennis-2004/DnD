@@ -1,0 +1,1 @@
+Necromancer Cleric at [[Rivercross]] who tried to sacrifice town to feed bear. Got leviathan corpse skin off black market in [[Modja]]

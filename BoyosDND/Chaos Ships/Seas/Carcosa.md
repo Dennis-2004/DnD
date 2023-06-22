@@ -1,0 +1,3 @@
+An ocean parallel to the real world where the waves are made of yellow flowing silk. Islands dotted around with planes of dry withered glass, rocks periodically stick out of the grass withered through time. Some islands are ancient ruins of civilizations new and old. The ruin where all the cloth leads to is the ruined city of Carcosa, this is where the face of the winged one stays, where his ancient champions reside.
+![[Pasted image 20230617132824.png]]
+![[Pasted image 20230617132434.png]]

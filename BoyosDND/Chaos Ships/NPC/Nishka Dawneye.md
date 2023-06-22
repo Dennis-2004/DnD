@@ -1,0 +1,1 @@
+Forgotten brother of [[Demnya Dawneye]] and [[Izraza Dawneye]] who was born after they had left to escape the plague.

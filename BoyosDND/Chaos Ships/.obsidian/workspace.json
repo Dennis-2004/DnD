@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "32a800e1b254ea68",
+        "id": "eb99b457a0fd8227",
         "type": "tabs",
         "children": [
           {
-            "id": "ef5207865d713587",
+            "id": "841cde361707cd53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navarre.md",
+                "file": "Players/Sirvati Gharen 'Dara.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ea769f6dfcbe334",
+            "id": "51f3b5f4e8d38fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,343 +32,31 @@
             }
           },
           {
-            "id": "806e2deb7054c4e9",
+            "id": "ba33c8edd157e025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Tinkblok's old crew.md",
+                "file": "Corruption of the True Lord.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f8ff2603a94b9b9",
+            "id": "641d0c779099c24d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Akamon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f06c2a371a880b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Akamon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25857c782ad56911",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6cff5d443f8230f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Islands/Rivercross.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2638c4b2c689c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Solaun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93d0f2fbe029ec84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Deities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad0f831617e75e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Shadow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd741dff93cea473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Demnya Dawneye.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2acad24465fb63bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Izraza Dawneye.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c2dd79864878ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Islands/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c4a8e19f2c21d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Islands/Carcer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f64fa50f5e409d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Ships in a Bottle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adec64230a65b5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Izraza Dawneye.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d013ee268a9b4fdf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "17d9a25fccdc535f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Monkey King.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74a686f0d637c205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Deities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f940fecfc924ab2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Monarch of Frost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af2b463ab82da2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Monarch of Frost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ca476dfbb7cfdb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Sovereign of Storms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7fc461b1e2a714b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Volcanic Empress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ae324bbea48fa4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff571250bed1ed9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Nishka Dawneye.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11002bf2a4ee5a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Akamon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06313662b4de337b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Jymm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92f15c72f745578e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Deities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97b5211590a73e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Deities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b96f64694232de13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seas/Carcosa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d2c62ec91e419f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Jymm.md",
+                "file": "Corruption of the True Lord.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -442,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Jymm.md",
+                "file": "Corruption of the True Lord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -459,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Jymm.md",
+                "file": "Corruption of the True Lord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -482,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Jymm.md"
+                "file": "Corruption of the True Lord.md"
               }
             }
           }
@@ -503,42 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49d2c62ec91e419f",
+  "active": "641d0c779099c24d",
   "lastOpenFiles": [
     "Hidden Magic Items.md",
-    "NPC/Shadow.md",
-    "Navarre.md",
-    "Images",
-    "Seas/Carcosa.md",
-    "Images/Pasted image 20230617132824.png",
-    "Groups/Deities.md",
-    "Pasted image 20230617131807.png",
-    "Images/Pasted image 20230617132434.png",
-    "Groups/Church of the Storm.md",
-    "NPC/Jymm.md",
-    "NPC/Unamed Pet Cat.md",
     "Players/Sirvati Gharen 'Dara.md",
-    "Players/Akamon.md",
-    "NPC/Izraza Dawneye.md",
-    "NPC/Monarch of Frost.md",
-    "Islands/Rivercross.md",
-    "Islands/Session 2.md",
-    "NPC/Solaun.md",
-    "NPC/Nishka Dawneye.md",
-    "Islands/Dawneye Island.md",
-    "NPC/Sovereign of Storms.md",
-    "NPC/Volcanic Empress.md",
-    "NPC/Gilded King.md",
-    "NPC/Akamon's commanding officer.md",
-    "Groups/Followers of the One True Leviathan.md",
-    "Groups/Tinkblok's old crew.md",
-    "NPC/Monkey King.md",
-    "Islands/Modja.md",
-    "Islands/Carcer.md",
-    "Seas",
-    "Groups",
-    "Islands",
-    "NPC",
-    "Players"
+    "Corruption of the True Lord.md",
+    "Groups/Deities.md",
+    "Navarre.md",
+    "Islands/Vrochos.md",
+    "NPC/Jymm.md",
+    "NPC/Shadow.md",
+    "Images",
+    "Seas/Carcosa.md"
   ]
 }

@@ -17,6 +17,7 @@
 
 ### The One True Leviathan
 - Used to be main power of the [[Center Sea]]
+- God of space and time
 - Died during the Fracturing
 - Corpse is the cause of the spreading corruption
 - Corpse is currently in the astral plane

@@ -8,55 +8,121 @@
         "type": "tabs",
         "children": [
           {
-            "id": "841cde361707cd53",
+            "id": "f3d0165982e44832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Sirvati Gharen 'Dara.md",
+                "file": "Groups/Tinkblok's old crew.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51f3b5f4e8d38fb1",
+            "id": "35e064f6533fb567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Deities.md",
+                "file": "Groups/Strongest 8 of Commanding Officer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba33c8edd157e025",
+            "id": "1e03912685e78153",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
+          },
+          {
+            "id": "9d7fcf544613db5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corruption of the True Lord.md",
+                "file": "Groups/Strongest 8 of Commanding Officer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "641d0c779099c24d",
+            "id": "4e28c476285b4ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corruption of the True Lord.md",
+                "file": "Groups/Strongest 8 of Commanding Officer.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cddc1a19530ad6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Jymm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17cecdfaf886443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Demnya Dawneye.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8633a0a7f6570a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Jymm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e97c076d8610faa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storm's Calling Invasion/Enemy/Captains/Cassandra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db4d14cab2403bf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -130,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corruption of the True Lord.md",
+                "file": "Storm's Calling Invasion/Enemy/Captains/Cassandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corruption of the True Lord.md",
+                "file": "Storm's Calling Invasion/Enemy/Captains/Cassandra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +226,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -170,16 +236,54 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corruption of the True Lord.md"
+                "file": "Storm's Calling Invasion/Enemy/Captains/Cassandra.md"
               }
+            }
+          },
+          {
+            "id": "ef779b9545415c8c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ee49e22698eb12f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d199c88121a7f2ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c2e888fcff6a24fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d69241a1f871831",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,20 +292,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "641d0c779099c24d",
+  "active": "e97c076d8610faa3",
   "lastOpenFiles": [
-    "Hidden Magic Items.md",
-    "Players/Sirvati Gharen 'Dara.md",
-    "Corruption of the True Lord.md",
-    "Groups/Deities.md",
-    "Navarre.md",
-    "Islands/Vrochos.md",
+    "Storm's Calling Invasion/Enemy/Ships/Ophiotaurus.md",
+    "Storm's Calling Invasion/Enemy/Enemy Strength.md",
+    "Storm's Calling Invasion/Enemy/Captains/Cassandra.md",
+    "Groups/Strongest 8 of Commanding Officer.md",
+    "Storm's Calling Invasion/Enemy/Captains",
+    "NPC/Izraza Dawneye.md",
+    "Groups/Tinkblok's old crew.md",
+    "Storm's Calling Invasion/Enemy/Ships",
+    "Untitled",
+    "NPC/Ruby Pet Cat.md",
+    "Storm's Calling Invasion/Ally",
+    "Storm's Calling Invasion/Enemy",
+    "Storm's Calling Invasion",
+    "NPC/Gehrman.md",
     "NPC/Jymm.md",
+    "Players/DR R2D2.md",
+    "Groups/Deities.md",
+    "NPC/Monkey King.md",
     "NPC/Shadow.md",
-    "Images",
-    "Seas/Carcosa.md"
+    "Islands/Storm's Calling.md",
+    "NPC/Alaion.md",
+    "NPC/Akamon's commanding officer.md",
+    "NPC/Volcanic Empress.md",
+    "NPC/Sovereign of Storms.md",
+    "NPC/Monarch of Frost.md",
+    "NPC/Gilded King.md",
+    "Navarre.md",
+    "Players/Aether.md",
+    "Players/Akamon.md",
+    "Players/Sirvati Gharen 'Dara.md",
+    "Players/Demnya Dawneye.md",
+    "Images"
   ]
 }

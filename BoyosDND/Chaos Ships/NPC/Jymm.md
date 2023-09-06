@@ -1,13 +1,13 @@
 [[Izraza Dawneye]] boyfriend and butler of her mansion. Sad
 
-Level: 4
+Level: 6
 Class: Bard
 Race: Aasimar (Protector)
 Subclas: Creation
 gp: 525
 
 AC: 14 (when wearing armor)
-HP: 39 (39)
+HP: 55 (55)
 
 Str: 14
 Dex: 16
@@ -22,6 +22,10 @@ Proficiency: Cooks Utensil, Chess
 Resistance: Radiant, Necrotic
 Darvision
 
+days since bday: 3
+
+100gp pearl
+
 Feat: Chef
 - Increase your Constitution or Wisdom score by 1, to a maximum of 20.
 - You gain proficiency with cook’s utensils if you don’t already have it.
@@ -34,15 +38,18 @@ Spells:
 	- Vicious Mockery
 	- Mage Hand
 	- Light
-- 1st 4:
+- 1st 4: 4
 	- Heroism
 	- Healing word
 	- Comprehend Languages
 	- Feather Fall
-- 2nd: 3
+- 2nd: 3: 3
 	- Knock
 	- Mirror Image
 	- Enhance Ability
+- 3rd: 3: 3
+	- Catnap
+	- Tiny Hut
 
 ### Note of Potential
 
@@ -74,3 +81,6 @@ You have resistance to necrotic damage and radiant damage.
 
 ### **Healing Hands.**
 As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.
+
+### Animating Performance
+Summon a little feller.

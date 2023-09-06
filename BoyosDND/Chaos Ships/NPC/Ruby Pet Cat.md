@@ -1,5 +1,5 @@
 - Armor Class 17
-- Hit Points 21
+- Hit Points 24
 - Speed 50 ft., climb 40 ft.
 
 STR  14 (+2)

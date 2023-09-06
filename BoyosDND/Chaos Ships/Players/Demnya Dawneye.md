@@ -4,3 +4,5 @@ A bit after he got imprisoned she and her sister left town. (As fast as possible
 She doesn't know if the noble found out about who actually did the murder. And she travelled far away from there. But she considers herself a criminal now.
 
 She sends enough money back to her little sister, [[Izraza Dawneye]]
+
+Bounty: 150

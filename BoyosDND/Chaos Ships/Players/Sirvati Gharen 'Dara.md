@@ -7,3 +7,5 @@ bridge between life and death.
 ## Weird Infection
 - Magical Curse spreads like lycanthopy.
 - Works easier if already dead
+
+Bounty: 50

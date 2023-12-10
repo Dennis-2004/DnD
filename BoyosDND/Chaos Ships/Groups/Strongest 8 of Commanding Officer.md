@@ -8,7 +8,7 @@ gp: -
 AC: 21 (when wearing armor)
 HP: 113 (113)
 
-Str: 20
+Str: 24
 Dex: 12
 Con: 18
 Int: 10
@@ -150,4 +150,4 @@ Int:
 Wis: 
 Cha: 
 
-Builds and repairs machinery for her friends was rank 4 and after losing both her legs in the raid she spent so long fixing herself and other that she fell behind in terms of combat and dropped to rank 8
+Builds and repairs machinery for her friends was rank 4 and after losing both her legs in the raid she spent so long fixing herself and other that she fell behind in terms of combat and dropped to rank 8. Want to become a necromaton to regain her power

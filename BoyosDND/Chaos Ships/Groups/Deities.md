@@ -2,18 +2,15 @@
 - Main power of the [[North Sea]]
 - Main body is in the elemental plane of water
 
-### Thunderous Leviathan of the East
-- Main power of the [[East Sea]]
-- Main body is in the elemental plane of air
-- Control over storm and values strength over all
-
 ### Infernal Leviathan of the South
 - Main power of the [[South Sea]]
 - Main body is in the elemental plane of fire
+- Massive fucking phoenix
 
 ### Gilded Leviathan of the West
 - Main power of the [[West Sea]]
 - Main body is in the elemental plane of earth
+- Ice Primordial
 
 ### The One True Leviathan
 - Used to be main power of the [[Center Sea]]

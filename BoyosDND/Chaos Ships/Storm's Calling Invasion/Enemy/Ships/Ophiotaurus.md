@@ -1,6 +1,6 @@
 Ship of [[Cassandra]] below deck mostly used for scientific research of strategy meeting. Above deck is Cassandra's Magnum Opus. An area that when activated belongs completely to her, she becomes god of the deck
 
-## Layer action (Init 20):
+## Lair action (Init 20):
 Every turn get two charges
 - Restrict (1 charge): give everyone resistance to a type of damage
 - Relocate (1 charge): teleport Cassandra to any location she wants in range

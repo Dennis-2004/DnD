@@ -3,7 +3,7 @@
 Level: 6
 Class: Bard
 Race: Aasimar (Protector)
-Subclas: Creation
+Subclass: Creation
 gp: 525
 
 AC: 14 (when wearing armor)
@@ -17,7 +17,7 @@ Wis: 10
 Cha: 20
 
 Expertise: Performance, Persuasion 
-Skills: Sleight of Hand, Insight, Survival
+Skills: Sleight of H9and, Insight, Survival
 Proficiency: Cooks Utensil, Chess
 Resistance: Radiant, Necrotic
 Darvision

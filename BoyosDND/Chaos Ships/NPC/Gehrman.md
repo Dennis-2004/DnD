@@ -1,7 +1,7 @@
 Level: 7
 Class: Fighter
 Race: Tri-kreen
-Subclas: Gunslinger
+Subclass: Gunslinger
 gp: 525
 
 AC: 18 (when wearing armor)
@@ -19,6 +19,12 @@ Cha: 13
 +10 to hit 1d10 + 5
 
 100gp chrysoberyl
+
+### First Mate
+**Rally**. As an action on [your turn](https://www.5esrd.com/gamemastering/combat#TOC-Your-Turn) you can choose a crew member (other than yourself) within 60 feet of you who can hear you. The creature gains advantage on their next [attack](https://www.5esrd.com/gamemastering/combat#TOC-Attack) roll, skill check or saving throw.
+
+**Terrify**. As a [bonus action](https://www.5esrd.com/gamemastering/combat/?uniqparam=OTVmZjAyMjA1Y2I2MzdjMjI5ZDZjZDRiYzY5NzNlYzM/#Bonus_Actions), you can choose an enemy creature within 60 feet of you who can see and hear you. The creature gains disadvantage on their next [attack](https://www.5esrd.com/gamemastering/combat#TOC-Attack) roll, skill check, or saving throw. Once you use this feature, you must finish a short or [long rest](https://www.5esrd.com/gamemastering/the-environment/#Long_Rest) before you can use it again.
+
 ### Gunsmith
 Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s Tools. You may use them to craft ammunition at half the cost, repair damaged firearms, or even draft and create new ones (DM’s discretion). Some extremely experimental and intricate firearms are only available through crafting.
 

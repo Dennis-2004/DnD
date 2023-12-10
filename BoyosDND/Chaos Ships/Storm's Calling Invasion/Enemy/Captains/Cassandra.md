@@ -1,10 +1,10 @@
 Level: 13
 Class: Wizard
 Race: Human 
-Subclas: War Magic
+Subclass: War Magic
 gp: -
 
-AC: 16 (22 (+2 from arcane deflection, +2 from Durable Magic, +2 plat shield, +2 barrier tattoo))
+AC: 18 (24 (+2 from arcane deflection, +2 from Durable Magic, +2 plat shield))
 HP: 117
 
 Str: 6 (-2 save (+4 with with Arcane Deflection and Durable Magic))
@@ -70,7 +70,7 @@ When a hostile creature's movement provokes an opportunity attack from you, you 
 - Tidal Wave
 - Glyph of Warding
 - Counterspell
-#### 4th: 0
+#### 4th: 2
 - Faithful Hound
 - Fire Shield
 - Blight

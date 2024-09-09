@@ -1,0 +1,1 @@
+[[Ishima Ignivara Protector of the unwanted, lost and forgotten]]'s island 

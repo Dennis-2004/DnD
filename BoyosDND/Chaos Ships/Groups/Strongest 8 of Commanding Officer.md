@@ -1,19 +1,19 @@
 ### Aurelius
-Level: 12
+Level: 17
 Class: Paladin
 Race: Human
 Subclas: Conquest
 gp: -
 
-AC: 21 (when wearing armor)
-HP: 113 (113)
+AC: 23 (when wearing armor)
+HP: 200 (200)
 
 Str: 24
 Dex: 12
-Con: 18
+Con: 20
 Int: 10
-Wis: 10
-Cha: 16
+Wis: 14
+Cha: 20
 
 Sentinel
 

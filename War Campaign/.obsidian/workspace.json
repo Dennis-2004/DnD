@@ -1,60 +1,53 @@
 {
   "main": {
-    "id": "b09a525f3a8f30d3",
+    "id": "af535f8dcbe778f7",
     "type": "split",
     "children": [
       {
-        "id": "2e4ff44715faf51d",
+        "id": "c11f085a59876c70",
         "type": "tabs",
         "children": [
           {
-            "id": "a3fdd8295c7c2a4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "971db196d119a679",
+            "id": "7f565549f3ef73ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Niall, The Divine Instrument of Conquest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c001c3744238a59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Skeleton General 2.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "286ae3b22652371c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef86134c951bc860",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "19ac30fb02393ab4",
+    "id": "80302338fe2a9c3e",
     "type": "split",
     "children": [
       {
-        "id": "66a96931402b4375",
+        "id": "8683975b9d16e06a",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf42927b34437d7",
+            "id": "bf94a7d4ef032585",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +57,7 @@
             }
           },
           {
-            "id": "0ff7dc41ff71dcb8",
+            "id": "63f977f2c5092d6a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,15 +72,7 @@
             }
           },
           {
-            "id": "0bad0f24fa8dcef9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c46a0123616b6a08",
+            "id": "75b2373cf1db724d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "2b0829e78519cde6",
+    "id": "811317b27552bcae",
     "type": "split",
     "children": [
       {
-        "id": "23827c6920df85af",
+        "id": "0992d4dd36efab6b",
         "type": "tabs",
         "children": [
           {
-            "id": "18d2202ae194c6ac",
+            "id": "f45f89080f1868d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Skeleton General 2.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,19 +111,19 @@
             }
           },
           {
-            "id": "abffe0ba44fe6f09",
+            "id": "9541df2d0a1d0695",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Skeleton General 2.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "93480d7df7f4bef6",
+            "id": "f2748c818d819d88",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,12 +134,12 @@
             }
           },
           {
-            "id": "deb03145ce798208",
+            "id": "089254258ab1c4ed",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Skeleton General 2.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -175,24 +160,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c001c3744238a59b",
+  "active": "7f565549f3ef73ae",
   "lastOpenFiles": [
-    "The Party/Skeleton Archer 3.md",
-    "NPCs/Niall, The Divine Instrument of Conquest.md",
-    "Title Ideas.md",
-    "Global Powers/Yamamoto Clan.md",
-    "Special Buildings/Tree of Hope.md",
-    "Parties/The Smoking Barrels.md",
-    "NPCs/Flo the Aligator.md",
-    "Cities/The Swamp of Life.md",
-    "Homebrew/Items.md",
-    "Global Powers/Druidic Circle of Nature.md",
-    "The Party/Alfons Joymiller.md",
-    "The Party/Hasashi Yamamoto.md",
-    "The Party/Olaf Pine.md",
-    "Global Powers/Deities.md",
-    "NPCs/Hanu the Great Ape.md",
-    "Global Powers/IronFoot Clan.md",
-    "Special Buildings/The Hidden Cave of Xiuhco.md"
+    "Welcome.md"
   ]
 }

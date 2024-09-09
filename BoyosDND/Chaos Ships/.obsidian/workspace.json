@@ -1,190 +1,104 @@
 {
   "main": {
-    "id": "e86ffbe20dc8d82a",
+    "id": "163780a6f77055f4",
     "type": "split",
     "children": [
       {
-        "id": "eb99b457a0fd8227",
+        "id": "2e6826121226b80a",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d0165982e44832",
+            "id": "fcfe7f5a78a955cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Tinkblok's old crew.md",
+                "file": "Hidden Magic Items.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35e064f6533fb567",
+            "id": "3ddb831681f2c179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Strongest 8 of Commanding Officer.md",
+                "file": "Islands/Ankewelt.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e03912685e78153",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
-            }
-          },
-          {
-            "id": "9d7fcf544613db5a",
+            "id": "3306dae15232a68c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Strongest 8 of Commanding Officer.md",
+                "file": "NPC/Demi Gods/Sovereign of Storms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e28c476285b4ff2",
+            "id": "2fd24b079e5ec263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Strongest 8 of Commanding Officer.md",
+                "file": "NPC/Demi Gods/Ishima Ignivara Protector of the unwanted, lost and forgotten.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cddc1a19530ad6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Jymm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d17cecdfaf886443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Demnya Dawneye.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dfd49b908fc8d46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Sirvati Gharen 'Dara.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6509fd84ee20829a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Islands/Underwater Magic City.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e97c076d8610faa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Gehrman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8633a0a7f6570a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Deities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a63d4a4000a7b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storm's Calling Invasion/Enemy/Ships/Ophiotaurus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b2087cd54720540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storm's Calling Invasion/Enemy/Captains/Cassandra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db4d14cab2403bf2",
+            "id": "6ab097e369a69379",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.4.5"
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "f50379e4d9f611fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d21fa06b0dec069",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e8921b68fba91ea6",
+    "id": "cdf20ea22c6e33ae",
     "type": "split",
     "children": [
       {
-        "id": "b90c462a6caf676a",
+        "id": "04b50ffad80395df",
         "type": "tabs",
         "children": [
           {
-            "id": "aadb6eea16f74a8a",
+            "id": "60361e5a2565dadb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -194,7 +108,7 @@
             }
           },
           {
-            "id": "df4f6f2d8e9d2002",
+            "id": "84f5e2c46a99bda8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -209,15 +123,7 @@
             }
           },
           {
-            "id": "19b18cb44a73f961",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "86f57551c36edb99",
+            "id": "d0ab8f6ed21a7466",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -231,20 +137,20 @@
     "width": 300
   },
   "right": {
-    "id": "9f54d4c39c28c262",
+    "id": "27b46c71af530aca",
     "type": "split",
     "children": [
       {
-        "id": "1a5d74bc9a13290c",
+        "id": "ad56e494c961ad6e",
         "type": "tabs",
         "children": [
           {
-            "id": "54531a90d7bce030",
+            "id": "901cc0c1f305a070",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Deities.md",
+                "file": "NPC/Demi Gods/Ishima Ignivara Protector of the unwanted, lost and forgotten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,40 +162,52 @@
             }
           },
           {
-            "id": "17bef8deeb7a4972",
+            "id": "070481aa68ad0d06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Deities.md",
+                "file": "NPC/Demi Gods/Ishima Ignivara Protector of the unwanted, lost and forgotten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ba272608fb592585",
+            "id": "fdac559b9181fc3c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "fb26b7b84083b54b",
+            "id": "1761640da4f2fa97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f34313e09663d803",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/Deities.md"
+                "file": "NPC/Demi Gods/Ishima Ignivara Protector of the unwanted, lost and forgotten.md"
               }
             }
           },
           {
-            "id": "ef779b9545415c8c",
+            "id": "de2fbf06f8706280",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -297,43 +215,10 @@
             }
           },
           {
-            "id": "2ee49e22698eb12f",
+            "id": "d8ef31c656e15892",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d199c88121a7f2ed",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "609111371a238954",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c2e888fcff6a24fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d69241a1f871831",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
               "state": {}
             }
           }
@@ -341,59 +226,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8633a0a7f6570a3c",
+  "active": "3d21fa06b0dec069",
   "lastOpenFiles": [
-    "Gods/Thunderous Leviathan of the East.md",
-    "Groups/Deities.md",
-    "Islands/Storm's Calling.md",
-    "Groups/Church of the Storm.md",
-    "NPC/Sovereign of Storms.md",
-    "Islands/Carcer.md",
-    "Players/Aether.md",
-    "Groups/Followers of the One True Leviathan.md",
-    "Gods",
-    "NPC/Gehrman.md",
-    "NPC/Jymm.md",
-    "Storm's Calling Invasion/Enemy/Ships/Standard Ship.md",
-    "Storm's Calling Invasion/Enemy/Captains/Cassandra.md",
-    "Storm's Calling Invasion/Enemy/Ships/Ophiotaurus.md",
-    "Groups/Strongest 8 of Commanding Officer.md",
-    "Storm's Calling Invasion/Enemy/Enemy Strength.md",
-    "Players/DR.RD.md",
-    "Players/Sirvati Gharen 'Dara.md",
+    "Stuff/Useful Websites.md",
+    "Islands/Isaz.md",
+    "Islands/Ishima's Island.md",
+    "NPC/Demi Gods/Ishima Ignivara Protector of the unwanted, lost and forgotten.md",
+    "NPC/Demi Gods/Sovereign of Storms.md",
+    "Islands/Vrochos.md",
     "Islands/Underwater Magic City.md",
-    "Storm's Calling Invasion/Ally/Captains/Sorcerer Ribbito.md",
-    "NPC/Egg.md",
-    "Useful Websites.md",
-    "Storm's Calling Invasion/Ally/Captains/Alena.md",
-    "Storm's Calling Invasion/Ally/Captains/Paladin.md",
-    "Storm's Calling Invasion/Ally/Captains/Rogue.md",
-    "Storm's Calling Invasion/Ally/Captains/Chad.md",
-    "Storm's Calling Invasion/Encounters.md",
-    "Images/Pasted image 20231010173945.png",
-    "Storm's Calling Invasion/Ally/Captains",
-    "Seas",
-    "Storm's Calling Invasion/Enemy/Captains",
-    "Storm's Calling Invasion/Enemy/Ships",
-    "Storm's Calling Invasion/Ally",
-    "Storm's Calling Invasion/Enemy",
-    "Storm's Calling Invasion",
-    "Images"
+    "Islands/Storm's Calling.md",
+    "Islands/Rivercross.md",
+    "Islands/Modja.md",
+    "Islands/Dawneye Island.md",
+    "Islands/Carcer.md",
+    "Islands/Ankewelt.md",
+    "Groups/Deities.md",
+    "Gods/Thunderous Leviathan of the East.md",
+    "NPC/Demi Gods/Angel of Time Amon.md",
+    "NPC/Demi Gods/Angel of Imagination Adam.md",
+    "NPC/Demi Gods",
+    "Islands/Session 2.md",
+    "Hidden Magic Items.md",
+    "Navarre.md",
+    "Stuff/Template.md",
+    "Stuff",
+    "Stuff/Untitled.canvas"
   ]
 }
